@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bbandeo
 - 👀 I’m interested in domotic, music and robots
-- 🌱 I’m currently learning Node.JS Microservices Architecture
-- 💞️ I’m looking to collaborate on IoT projects
+- 🌱 I’m currently learning microservices and DevOps
+- 💞️ In process of WMS design for warehouses with Four Way Shuttle autonomous vehicles, in communication with branded WCS
 - 📫 You can reach me on bbandeo@crosetto.com.ar
 
 <!---
